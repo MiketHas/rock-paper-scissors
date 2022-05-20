@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RPS:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/RPS_jar</output-path>
+    <root id="archive" name="RPS.jar">
+      <element id="module-output" name="RPS" />
+    </root>
+  </artifact>
+</component>
